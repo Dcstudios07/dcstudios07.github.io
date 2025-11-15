@@ -1,0 +1,24 @@
+
+# DC Studio Website
+
+Welcome to the **DC Studio** website project. This is a responsive, modern, and photography-focused website built with **HTML, CSS, and JavaScript**. It is designed to showcase services, projects, testimonials, and provide a contact form for potential clients.
+
+---
+
+## Features
+
+- **Responsive Design:** Works on desktop, tablet, and mobile devices.
+- **Home Section:** Hero banner, introductory text, and call-to-action.
+- **About Section:** Details about DC Studio, expertise, and experience.
+- **Services Section:** Professional photography services offered (Weddings, Portraits, Fashion, Editorial).
+- **Projects Section:** Gallery of recent work with hover effects.
+- **Testimonials Section:** Client reviews carousel.
+- **Team Section:** Showcase of photographers and staff.
+- **Contact Section:** Contact form that sends queries directly to email.
+- **Smooth Scroll:** Navigation links scroll to specific sections of the page.
+- **Dark, Modern Theme:** Subtle dark tones to give a professional photography feel.
+
+---
+
+## Folder Structure
+
